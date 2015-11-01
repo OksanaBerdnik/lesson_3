@@ -1,0 +1,23 @@
+.leveling {
+	font-weight: bold;
+}
+input, select {
+	margin: 5px;
+}
+.retreat_bottom {
+	margin-bottom: 20px;
+}
+.retreat_top {
+	margin-top: 20px;
+}
+.italic {
+	font-style: italic;
+}
+div {
+	display: block;
+	margin: 0 auto;
+	width: 70%;
+}
+p { 
+	margin:0;
+}
